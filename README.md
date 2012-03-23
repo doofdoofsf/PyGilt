@@ -1,4 +1,4 @@
-#PyGilt
+# PyGilt
 A Python client binding for the Gilt API
 
 ##Documentation
